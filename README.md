@@ -1,6 +1,11 @@
 # calorie-calculator
 This project has three fields. Firstly it calculates your daily calorie count.Secondly it calculates the calorie intake and lastly it tells you your BMI.
 
+STACK USED :
+HTML, CSS (with bootstrap) , JS (with jquery), Core PHP, MySql
+
+Requirements :
+PHP version 7.0 and above with extensions : MySqli ,  mbstring and other basic extensions.
 
 To setup this project, upload all the files in your server and create a database (MySql) with it's privileged user. 
 Import shivangicalories_db.sql file.
@@ -17,3 +22,5 @@ Demo URL : https://calories.shivangikashyap.com/
 
 Admin URL : https://calories.shivangikashyap.com/admin
  (admin , admin - credentials)
+
+
